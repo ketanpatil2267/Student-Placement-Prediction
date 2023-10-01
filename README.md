@@ -9,3 +9,4 @@ The Logistic Regression worked well with an accuracy of ~65%.
 
 Scope of Improvement: Accuracy can be highly improved by using a more robust dataset.
 # Student-Placement-Prediction
+# Student-Placement-Prediction
