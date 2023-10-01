@@ -1,1 +1,1 @@
-Contains the year of graduation prediction done solely in excel
+Year of graduation prediction done completely in Excel.
